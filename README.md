@@ -18,6 +18,21 @@
 - histogram, boxplot, Kernel Density Plot
 
 #### 3. 사료 제조사별 성능 차이가 있을까요?
+평균 몸무게 비교 <br>
 - 분포도 확인
-- 가설검정
+- 정규분포여부 및 가설검정p-value값 
 - boxplot, scipy
+
+#### 4. 병아리 성장에 영향을 미치는 요소는 무엇일까요? 
+- 상관계수, 상관분석
+- Heatmap
+
+#### 5. 병아리의 몸무게를 예측할 수 있을까요?
+1. 단순선형 회귀분석<br>
+   - 회귀분석 결과 해석 
+   - scatter , 잔차 histogram 
+2. 다중 회귀분석 <br>
+3. 다중공선성 확인 <br>
+4. 잔차 histogram <br>
+5. 비선형 회귀분석 <br>
+
