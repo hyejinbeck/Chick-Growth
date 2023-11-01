@@ -30,15 +30,15 @@
 
 #### 5. 병아리의 몸무게를 예측할 수 있을까요?
 회귀분석을 진행합니다. <br>
-1. 단순선형 회귀분석<br>
+1) 단순선형 회귀분석<br>
    - 결과 해석 
    - scatter , 잔차 histogram 
-2. 다중 회귀분석 <br>
+2) 다중 회귀분석 <br>
    - 후진소거법으로 진행 
    - 결과 해석
    - 다중공선성 확인
    - 잔차 histogram
-3. 비선형 회귀분석 <br>
+3) 비선형 회귀분석 <br>
    - 분포도 확인 
    - 결과 해석
    - scatter plot 
@@ -47,6 +47,28 @@
    - scatter plot
 
 #### 6. 병아리의 성별을 구분할 수 있을까요? 
-로지스틱 회귀 분석을 진행합니다. 
+로지스틱 회귀 분석(예측으로 분류)을 진행합니다. 
+- 분포도 확인 
+- scatter , histplot, boxplot, 
+- 로지스틱 회귀 분석 
+- 결과 해석
+- 로지스틱 회귀모델 (분류알고리즘) 성능평가
+   - 정오분류표 
+   - 분류 리포트(정확도,정밀도,민감도)
+   - ROC 커브 
+   - AUC 계산 
 
+#### 7. 병아리의 품종을 구분할 수 있을까요? 
+1) 분류 알고리즘 
+- Naive Bayes Classification
+- KNN
+- Decision Tree<br>
 
+2) 앙상블
+- Bagging
+- Boosting
+- Random Forest
+- SVM Support Vector Machine
+- XGBoost
+
+3) 분류 알고리즘 결과 정리 
