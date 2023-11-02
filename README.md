@@ -58,17 +58,16 @@
    - ROC 커브 
    - AUC 계산 
 
-#### 7. 병아리의 품종을 구분할 수 있을까요? 
-1) 분류 알고리즘 
-- Naive Bayes Classification
-- KNN
-- Decision Tree<br>
+#### 7. 병아리의 품종을 구분할 수 있을까요? (분류) 
+1. Naive Bayes Classification
+2. KNN
+3. Decision Tree<br>
 
-2) 앙상블
-- Bagging
-- Boosting
-- Random Forest
-- SVM Support Vector Machine
-- XGBoost
+#### 8. 병아리의 품종을 구분할 수 있을까요? (앙상블)
+1. Bagging
+2. Boosting
+3. Random Forest
+4. SVM Support Vector Machine
+5. XGBoost <br><br>
 
-3) 분류 알고리즘 결과 정리 
+6. 분류 알고리즘 결과 정리 
