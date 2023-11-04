@@ -65,8 +65,8 @@
 
 #### 8. 병아리의 품종을 구분할 수 있을까요? (앙상블)
 1. Bagging
-2. Boosting
-3. Random Forest
+2. Boosting (AdaBoost, GBM : Gradient Boosting Machine 경사하강법)
+3. Random Forest (Bagging을 적용한 의사결정나무 Decision Tree)
 4. SVM Support Vector Machine
 5. XGBoost <br><br>
 
