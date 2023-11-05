@@ -68,6 +68,7 @@
 2. Boosting (AdaBoost, GBM : Gradient Boosting Machine 경사하강법)
 3. Random Forest (Bagging을 적용한 의사결정나무 Decision Tree)
 4. SVM Support Vector Machine
-5. XGBoost <br><br>
+5. XGBoost
+6. XGBoost 하이퍼 파라미터 튜닝 (그리드 서치) 
+7. 분류 알고리즘 결과 정리 
 
-6. 분류 알고리즘 결과 정리 
